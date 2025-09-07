@@ -32,7 +32,10 @@
 
 
    ---
+   ##  Try the Live Demo
+[📝 AI Generated Essay Detector - Click to Test](https://aiessaydetector-ayaannadeem12.streamlit.app/)
 
+---
 
    ##  Installation
 
@@ -99,5 +102,6 @@
    ##  Contributing
 
    Contributions, issues, and feature requests are welcome! Please open an issue or submit a pull request.
+
 
 
